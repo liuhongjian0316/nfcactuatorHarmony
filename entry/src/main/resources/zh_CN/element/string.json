@@ -1,0 +1,33 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NFC 执行器"
+    },
+
+    {
+      "name": "auto_recognition_text_ing",
+      "value": "自动识别产品中..."
+    },
+    {
+      "name": "manually_select_products",
+      "value": "手动选择产品"
+    },
+    {
+      "name": "nfc_reasion",
+      "value": "本应用需要使用NFC与物联网设备通信，进而达到控制设备的目的"
+    },
+    {
+      "name": "internet_reason",
+      "value": "本应用需要访问互联网资源"
+    }
+  ]
+}
